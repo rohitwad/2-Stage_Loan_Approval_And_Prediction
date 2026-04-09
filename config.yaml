@@ -1,0 +1,20 @@
+
+
+models:
+    classifier : models/stage_1_rf_classification.pkl
+    regressor : models/stage_2_rf_regression.pkl
+
+ui:
+  default_inputs:
+      no_of_dependents: 1
+      education: Graduate
+      self_employed: No
+      income_annum: 100000
+      loan_amount: 30000
+      loan_term: 20
+      cibil_score: 150
+      residential_assets_value: 300000
+      commercial_assets_value: 200000
+      luxury_assets_value: 0
+      bank_asset_value: 55000
+
