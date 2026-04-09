@@ -4,6 +4,7 @@ pandas==2.3.0
 numpy==2.2.4
 scikit-learn==1.7.1
 joblib==1.5.1
+pyyaml
 PyYAML==6.0.3
 # xgboost==3.1.2
 # shap==0.50.0 (not getting installed hence committed out)
