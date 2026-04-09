@@ -30,7 +30,7 @@ git add .
 git commit -m "mesasage"
 git remote add origin https://url_of_you_git_repo.git
 git pull origin main --allow-unrelated-histories
-git push -u origin main
+git push -u origin main/master
 ```
 
 ## NOTE : 
